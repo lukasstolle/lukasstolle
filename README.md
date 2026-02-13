@@ -1,7 +1,7 @@
   Estudante de Programação
 
 🚀 Buscando evoluir em desenvolvimento de software  
-📚 Atualmente estudando Python, Java  e C
+📚 Atualmente estudando Python, Java e C
 🛠️ Focado em lógica e desenvolvimento  
 
 
